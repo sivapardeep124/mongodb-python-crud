@@ -1,0 +1,22 @@
+[{
+  "_id": {
+    "$oid": "5ffba65327dbc56e686cdafa"
+  },
+  "NAME": "sivaram",
+  "EMAIL": "sivapardeep378@gmail.com",
+  "PASSWORD": "hacker123"
+},{
+  "_id": {
+    "$oid": "5ffba66c27dbc56e686cdafb"
+  },
+  "NAME": "sujatha",
+  "EMAIL": "sujatha123@gmail.com",
+  "PASSWORD": "slkdhcsd656sdcjsd"
+},{
+  "_id": {
+    "$oid": "5ffba68127dbc56e686cdafc"
+  },
+  "NAME": "manoj kumar",
+  "EMAIL": "mano777@gmail.com",
+  "PASSWORD": ";asckjak978"
+}]
